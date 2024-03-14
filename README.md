@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Paul Rodrigo Rojas.
+
+I'm interested in DevOps and Artificial Intelligence.
+
+I'm always open to learn new technologies and concepts from the wide and wonderful world of the computer sciences.
+
 <!--
 **paulrojasg/paulrojasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
