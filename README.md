@@ -2,7 +2,7 @@
 
 My name is Paul Rodrigo Rojas.
 
-I'm interested in DevOps and Artificial Intelligence.
+I'm interested in DevOps practices.
 
 I'm always open to learn new technologies and concepts from the wide and wonderful world of the computer sciences.
 
