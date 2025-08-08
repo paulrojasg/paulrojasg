@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Paul Rodrigo Rojas.
+My name is Paul Rojas.
 
 I'm interested in DevOps practices.
 
